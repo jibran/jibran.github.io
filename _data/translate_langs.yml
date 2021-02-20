@@ -1,0 +1,10 @@
+# Translate languges
+# langs refer to https://cloud.google.com/translate/docs/languages
+
+- lang: en
+  img: https://www.countryflags.io/us/flat/64.png
+  text: English
+
+- lang: ur
+  img: https://www.countryflags.io/pk/flat/64.png
+  text: Urdu

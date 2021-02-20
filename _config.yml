@@ -1,0 +1,71 @@
+title: S.T.O.R.E.
+email: jibran.ijaz@gmail.com
+author: Jibran Ijaz
+copyright: Copyright © 2021
+description: >- # this means to ignore newlines until "baseurl:"
+  A personal website to share
+  suggestions, thoughts, opinions,
+  recommendations, and expressions by
+  Jibran Ijaz
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://store.jibran.life" # the base hostname & protocol for your site, e.g. http://example.com
+favicon: "/favicon.ico" # the favicon for your site
+
+# Yat date format
+yat:
+  date_format: "%b %d, %Y"
+
+# Google analytics
+#enableDNT: false
+google_analytics: UA-188471448-1
+
+# If you want to generate website sitemap, you can set true
+sitemap: true
+
+# Translate languges
+# langs refer to https://cloud.google.com/translate/docs/languages
+translate_langs:
+  - lang: en
+    text: English
+
+  - lang: ur
+    img: https://www.countryflags.io/pk/flat/64.png
+    text: Urdu
+
+# Gitment comments
+gitment:
+  username: "jibran"
+  repo: "jibran.github.io"
+  client_id: "cbe660bf526b76932ea5"
+  client_secret: "4c31ea3cd9cf03fd6e508f11a27b389c3c747a9f"
+  redirect_uri: "https://store.jibran.life"
+
+# Build settings
+# highlighter: none
+markdown: kramdown
+kmarkdown:
+  input: GFM
+
+theme: jekyll-theme-yat
+
+feed:
+  excerpt_only: true
+#  categories:
+#    - drupal
+  tags:
+    only:
+      - Drupal
+
+permalink: :title
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-spaceship
+  - jekyll-redirect-from
+
+exclude:
+  - .idea
+  - README.md
