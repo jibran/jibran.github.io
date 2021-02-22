@@ -1,6 +1,25 @@
 title: S.T.O.R.E.
+logo: /android-chrome-512x512.png
 email: jibran.ijaz@gmail.com
-author: Jibran Ijaz
+author:
+  name: Jibran Ijaz
+  twitter: JibranIjaz
+twitter:
+  username: JibranIjaz
+  card: summary
+social:
+  name: Jibran Ijaz
+  links:
+    - https://twitter.com/JibranIjaz
+    - https://www.linkedin.com/in/JibranIjaz
+    - https://github.com/jibran
+    - https://keybase.io/jibran
+webmaster_verifications:
+  google: 3rWLfKwbv6FbbpPlf2gEQm7UTrtknNf3fioGA0wDMLg
+#  bing: 1234
+#  alexa: 1234
+#  yandex: 1234
+#  baidu: 1234
 copyright: Copyright © 2021
 description: >- # this means to ignore newlines until "baseurl:"
   A personal website to share
