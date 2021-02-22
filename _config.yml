@@ -54,7 +54,7 @@ feed:
 #    - drupal
   tags:
     only:
-      - Drupal
+      - drupal_planet
 
 permalink: :title
 
