@@ -2,7 +2,9 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@jibranijaz/gitment@0.0.5/style/default.min.css"/>
   <script src="https://cdn.jsdelivr.net/npm/@jibranijaz/gitment@0.0.5/dist/gitment.browser.min.js"></script>
   <script>
+    var page_id = '{{ page.id }}' || window.location.href;
     var gitment = new Gitment({
+      id: page_id,
       desc: '{{ page.excerpt | strip_html | normalize_whitespace }}',
       owner: '{{ site.gitment.username }}',
       repo: '{{ site.gitment.repo }}',
