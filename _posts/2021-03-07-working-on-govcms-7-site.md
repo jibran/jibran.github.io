@@ -2,7 +2,8 @@
 layout: post
 title:  "Working on a GovCMS 7 Site"
 subtitle: My first impression of GovCMS 7 while working on a support ticket.
-banner: https://wallpapercave.com/wp/wp7388712.jpg
+banner: /assets/images/banners/wp7388712.jpg
+banner_from: https://wallpapercave.com/w/wp7388712
 categories: [GovCMS]
 tags: [drupal_planet, GovCMS 7, Drupal 7]
 ---

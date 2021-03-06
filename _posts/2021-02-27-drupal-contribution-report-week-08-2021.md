@@ -2,7 +2,8 @@
 layout: post
 title:  "Drupal Contribution Report, Week 08, 2021"
 subtitle: Weekly Drupal contribution report.
-banner: https://wallpapercave.com/wp/aPrA3hx.jpg
+banner: /assets/images/banners/aPrA3hx.jpg
+banner_from: https://wallpapercave.com/w/aPrA3hx
 categories: [weekly update]
 tags: [drupal_planet, bug-smash, drupal-contributions]
 ---
@@ -20,12 +21,12 @@ group triage sessions[^2], lately. So, I left a reminder about the group triage 
 saying I'd be around to participate in group triage session. We started a thread from that message and discussed a
 bunch of issues.
 
-[![Bug smash group triage session reminder](https://www.dropbox.com/s/3ge9qpkxzlcbqqh/Screenshot%20from%202021-03-06%2022-34-29.png?raw=1)][bug-smash-group-triage-sessions-reminder-thread]{:target="_blank"}
+[![Bug smash group triage session reminder](../assets/images/posts/Screenshot_from_2021-03-06_22-34-29.png)][bug-smash-group-triage-sessions-reminder-thread]{:target="_blank"}
 
 I had so much fun working with fellow bug-smashers that next day I left another message, and we started another thread
 form it. 😁
 
-[![Follow up bug smash group triage session](https://www.dropbox.com/s/xnvbpx0os8gb3u5/Screenshot%20from%202021-03-06%2022-59-12.png?raw=1)][follow-up-bug-smash-group-triage-session]{:target="_blank"}
+[![Follow up bug smash group triage session](../assets/images/posts/Screenshot_from_2021-03-06_22-59-12.png)][follow-up-bug-smash-group-triage-session]{:target="_blank"}
 
 Thanks to fellow Drupal community members for helping with group triage:
 

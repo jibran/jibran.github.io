@@ -2,7 +2,8 @@
 layout: post
 title:  "Drupal Contribution Report, Week 09, 2021"
 subtitle: Weekly Drupal contribution report.
-banner: https://wallpapercave.com/wp/wp6323938.jpg
+banner: /assets/images/banners/wp6323938.jpg
+banner_from: https://wallpapercave.com/w/wp6323938
 categories: [weekly update]
 tags: [drupal_planet, bug-smash, drupal-contributions]
 ---
@@ -25,7 +26,7 @@ triage threads. It is nice to see that I was not the only one concerned about it
 a 4 PM reminder and went back to join the work call. At four, I concluded the meeting and caught up on all the threads
 afterwards.
 
-[![Meeting of the Bug Smash Initiative 2021-03-02](https://www.dropbox.com/s/afpt9lau0ottv9m/screenshot-app.slack.com-2021.03.07-00_52_53.png?raw=1)][bug-smash-meeting]{:target="_blank"}
+[![Meeting of the Bug Smash Initiative 2021-03-02](../assets/images/posts/screenshot-app.slack.com-2021.03.07-00_52_53.png)][bug-smash-meeting]{:target="_blank"}
 
 Thank you [@larowlan][larowlan]{:target="_blank"} and [@griffynh][griffynh]{:target="_blank"} for helping me run the
 bug smash meeting. If you are interested in running the meeting then feel free to ping any of us in Slack we love to

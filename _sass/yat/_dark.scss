@@ -55,6 +55,9 @@ html[data-theme="dark"]  {
       color: #f8f8f8;
       background-color: $dark-background-color;
       box-shadow: 0 0 3px 1px #0000005b;
+      li a {
+        color: #f8f8f8;
+      }
     }
 
     .ct-language-selected, .ct-language-dropdown li:hover {
